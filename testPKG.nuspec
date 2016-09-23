@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>testPKG</id>
+    <id>abcdPKG</id>
     <version>1.0.0</version>
     <authors>cPrime</authors>
     <owners>Elango cPrime </owners>
