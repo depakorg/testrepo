@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+<?xml version="1.0"?>
+<package >
   <metadata>
-    <id>testPKGID</id>
+    <id>testPKG</id>
     <version>1.0.0</version>
     <authors>cPrime</authors>
-    <description>
-	This is a sample package created to test NuSpec
-    </description>
-    <iconUrl>http://icons.iconarchive.com/icons/hopstarter/sleek-xp-basic/128/Files-icon.png</iconUrl>
+    <owners>Elango cPrime </owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://www.clker.com/cliparts/6/9/7/d/13695040591588716064ip_icon_05_sample5d-md.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is a sample project </description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Kracken</tags>
     <dependencies>
-     <!-- <dependency id="another-package" version="3.0.0" />
-    </dependencies> 
+    </dependencies>
   </metadata>
-  <files>
-	<file src="lib/*.dll" target="lib" />
-  </files>
 </package>
