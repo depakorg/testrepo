@@ -15,5 +15,6 @@
     <tags>Kracken</tags>
     <contentFiles>
 	<files include="*.*" />
+    </contentFiles>
   </metadata>
 </package>
