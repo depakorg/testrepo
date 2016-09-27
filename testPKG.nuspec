@@ -14,6 +14,6 @@
     <copyright>Copyright 2016</copyright>
     <tags>Kracken</tags>
     <contentFiles>
-	<files include="*.*" \>
+	<files include="*.*" />
   </metadata>
 </package>
